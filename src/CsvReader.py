@@ -10,6 +10,7 @@ class CsvReader:
                                  help='Files for report')
         self.parser.add_argument('--report', type=str, help='Type of report')
         self.__get_args()
+        self.report_type = self.parser_args.report
 
     def __get_args(self):
         """Загрузка аргументов и директорий и отчёта."""
@@ -73,7 +74,7 @@ class CsvReader:
     def performance_report(self):
         """"Получените отчёта."""
         data_for_report = []
-        headers = ['#', 'position', 'performance']
+        headers = ['#', 'position', self.report_type]
         data_for_report = self.__load_report_info(data_for_report)
         calculate_arithmetic = self.__calculate_arithmetic(data_for_report)
         sorted_arithmetic = self.__sort_arithmetic(calculate_arithmetic)
