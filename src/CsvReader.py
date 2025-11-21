@@ -18,7 +18,7 @@ class CsvReader:
         self.run_files = self.parser_args.files
         self.run_report = self.parser_args.report
 
-    def __load_report_info(self, data_for_load):
+    def __load_report_info(self, data_for_load, report):
         """"Получаем все position и performance."""
         try:
             for arg in self.parser_args.files:
@@ -29,7 +29,7 @@ class CsvReader:
                     for employee in reader:
                         data_for_load.append([
                             employee['position'],
-                            employee['performance']
+                            employee[report]
                         ])
             return data_for_load
         except FileNotFoundError:
@@ -75,7 +75,8 @@ class CsvReader:
         """"Получените отчёта."""
         data_for_report = []
         headers = ['#', 'position', self.report_type]
-        data_for_report = self.__load_report_info(data_for_report)
+        data_for_report = self.__load_report_info(
+            data_for_report, self.report_type)
         calculate_arithmetic = self.__calculate_arithmetic(data_for_report)
         sorted_arithmetic = self.__sort_arithmetic(calculate_arithmetic)
         enumerated_data = self.__enumerate_data(sorted_arithmetic)
