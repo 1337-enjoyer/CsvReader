@@ -1,0 +1,15 @@
+name,position,completed_tasks,performance,skills,team,experience_years
+Dmitry Volkov,Backend Developer,47,4.85,"Python, FastAPI, Redis, MySQL",API Team,4
+Elena Smirnova,Frontend Developer,36,4.72,"Vue, JavaScript, Vuex, SCSS",Web Team,3
+Ivan Kuznetsov,Data Scientist,31,4.63,"Python, Deep Learning, PyTorch, NumPy",AI Team,5
+Olga Vorobieva,DevOps Engineer,55,4.88,"Azure, Docker, Helm, GitLab CI",Infrastructure Team,7
+Pavel Morozov,QA Engineer,39,4.52,"Playwright, Mocha, TestCafe, REST Assured",Testing Team,4
+Sergei Popov,Backend Developer,42,4.79,"Java, Spring Boot, MongoDB, Kafka",API Team,6
+Alina Kozlova,Frontend Developer,41,4.68,"React, TypeScript, MobX, Styled Components",Web Team,5
+Nikolai Sokolov,Data Scientist,27,4.59,"R, Statistics, Shiny, ggplot2",AI Team,4
+Ekaterina Novikova,DevOps Engineer,49,4.91,"GCP, Kubernetes, Jenkins, Bash",Infrastructure Team,5
+Artem Lebedev,QA Engineer,44,4.48,"Selenium, JUnit, Appium, SoapUI",Testing Team,3
+Maxim Orlov,Backend Developer,51,4.82,"Python, Django, PostgreSQL, Celery",API Team,7
+Kristina Egorova,Frontend Developer,33,4.75,"Angular, RxJS, NgRx, LESS",Web Team,4
+Alexey Petrov,Data Scientist,35,4.65,"Python, NLP, TensorFlow, Scikit-learn",AI Team,6
+Anastasia Fedorova,DevOps Engineer,58,4.87,"AWS, ECS, CloudFormation, Python",Infrastructure Team,8

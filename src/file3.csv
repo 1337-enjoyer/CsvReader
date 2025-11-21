@@ -1,0 +1,28 @@
+name,position,completed_tasks,performance,skills,team,experience_years
+Yuri Davydov,Data Scientist,30,4.58,"Python, Time Series, Prophet, XGBoost",AI Team,5
+Nadezhda Tikhonova,DevOps Engineer,56,4.86,"Docker Swarm, Terraform, Vault, Linux",Infrastructure Team,6
+Evgeny Sorokin,QA Engineer,45,4.49,"Selenium, TestNG, RestAssured, Allure",Testing Team,5
+Anatoly Kolesnikov,Backend Developer,49,4.83,"C#, .NET, SQL Server, RabbitMQ",API Team,6
+Larissa Potapova,Frontend Developer,35,4.73,"React Native, Expo, Zustand, Styled System",Web Team,3
+Viktor Gusev,Data Scientist,28,4.61,"Julia, DataFrames, Plots, MLJ",AI Team,4
+Margarita Simonova,DevOps Engineer,54,4.90,"AWS Lambda, Serverless, Python, CloudWatch",Infrastructure Team,7
+Timur Voronov,QA Engineer,40,4.46,"Cypress, Cucumber, JMeter, BrowserStack",Testing Team,4
+Boris Zhukov,Backend Developer,43,4.78,"Ruby, Rails, Redis, Sidekiq",API Team,5
+Valentina Krylova,Frontend Developer,39,4.74,"Vue 3, Composition API, Vite, Pinia",Web Team,5
+Stanislav Medvedev,Data Scientist,34,4.64,"Python, Recommender Systems, Surprise, LightFM",AI Team,6
+Yulia Fomina,DevOps Engineer,57,4.89,"Kubernetes Operators, ArgoCD, GitOps, Shell",Infrastructure Team,8
+Ruslan Tarasov,QA Engineer,38,4.51,"Playwright, TypeScript, Lighthouse, ESLint",Testing Team,3
+Denis Belov,Backend Developer,48,4.84,"Python, Flask, MySQL, Docker Compose",API Team,5
+Irina Gromova,Frontend Developer,37,4.70,"Svelte, SvelteKit, CSS-in-JS, Vercel",Web Team,4
+Mikhail Ignatiev,Data Scientist,26,4.57,"Python, Clustering, Scikit-learn, Matplotlib",AI Team,3
+Polina Kustova,DevOps Engineer,52,4.92,"GitHub Actions, Terraform, Crossplane, Go",Infrastructure Team,6
+Vadim Mishin,QA Engineer,43,4.47,"Selenium Grid, Docker, Java, Maven",Testing Team,4
+Georgy Afanasiev,Backend Developer,45,4.80,"PHP, Laravel, MySQL, Elasticsearch",API Team,4
+Lydia Shcherbakova,Frontend Developer,42,4.76,"React, Storybook, Webpack, Jest",Web Team,5
+Fedor Lukin,Data Scientist,33,4.60,"Python, Bayesian Methods, PyMC3, Seaborn",AI Team,5
+Ksenia Romanova,DevOps Engineer,50,4.85,"AWS, Terraform, Packer, Linux",Infrastructure Team,5
+Gleb Sviridov,QA Engineer,41,4.54,"Postman, Newman, CI/CD, JavaScript",Testing Team,4
+Artyom Karpov,Backend Developer,50,4.86,"Python, Django REST, PostgreSQL, Nginx",API Team,7
+Elizaveta Orlova,Frontend Developer,34,4.67,"TypeScript, Angular, Jasmine, Karma",Web Team,3
+Vitaly Noskov,Data Scientist,29,4.56,"Scala, Spark, Hadoop, Hive",AI Team,4
+Galina Belyaeva,DevOps Engineer,59,4.94,"Kubernetes, Istio, Helm, Monitoring",Infrastructure Team,9

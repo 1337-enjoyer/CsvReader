@@ -1,0 +1,9 @@
+name,position,completed_tasks,performance,skills,team,experience_years
+Daniil Pavlov,QA Engineer,37,4.55,"Cypress, Chai, K6, Swagger",Testing Team,5
+Grigory Stepanov,Backend Developer,46,4.77,"Node.js, Express, GraphQL, MySQL",API Team,4
+Veronika Makarova,Frontend Developer,40,4.71,"React, JavaScript, Context API, CSS Modules",Web Team,6
+Konstantin Belyaev,Data Scientist,32,4.62,"Python, Computer Vision, OpenCV, Keras",AI Team,4
+Tatiana Komarova,DevOps Engineer,53,4.93,"Kubernetes, Prometheus, Grafana, Ansible",Infrastructure Team,7
+Roman Frolov,QA Engineer,42,4.53,"Jest, Puppeteer, LoadRunner, Fiddler",Testing Team,4
+Vladimir Kalinin,Backend Developer,44,4.81,"Go, Gin, PostgreSQL, Docker",API Team,5
+Sofia Grigorieva,Frontend Developer,38,4.69,"TypeScript, Next.js, Redux Toolkit, Tailwind",Web Team,4
